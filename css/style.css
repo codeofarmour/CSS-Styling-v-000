@@ -22,7 +22,7 @@ figcaption {
   font-size: 0.7em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif; */
-  font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
+  font: normal 0.75em/1.5em 'Elsie Swash caps', cursive;
   /*The single statement above satisfies all of the commented out styles.
   This is much more readable and efficient*/
   color: #777;/*same as 8844CC, 88 = red 44 = green CC = green 0-9 and A-F
