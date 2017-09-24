@@ -23,4 +23,5 @@ figcaption {
   font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
   /*The single statement above satisfies all of the commented out styles.
   This is much more readable and efficient*/
+  color: #84C
 }
